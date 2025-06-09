@@ -7,7 +7,3 @@ $ cargo run -- --endpoint <endpoint> --x-token <token>
 ```
 
 ![screenshot](assets/usage-screenshot.png?raw=true "Screenshot")
-
-## Docs
-Shyft Website: [https://shyft.to/#solana-grpc-streaming-service]  
-Shyft gRPC Docs: [https://docs.shyft.to/solana-fast-grpc/grpc-docs]
